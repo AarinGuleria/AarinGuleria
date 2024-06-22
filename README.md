@@ -1,4 +1,4 @@
-
+![git banner](https://github.com/AarinGuleria/AarinGuleria/assets/122372373/ce89737b-3700-45ea-a361-acbc35450658)
 <h1 align="center">Hi 👋, I'm Aarin Guleria</h1>
 <h3 align="center">Web Developer: Exploring New Horizons</h3>
 
