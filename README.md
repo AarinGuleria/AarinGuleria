@@ -1,10 +1,14 @@
 ![git banner](https://github.com/AarinGuleria/AarinGuleria/assets/122372373/ce89737b-3700-45ea-a361-acbc35450658)
 <h1 align="center">Hi 👋, I'm Aarin Guleria</h1>
-<h3 align="center">Web Developer: Exploring New Horizons</h3>
+<h3 align="center">Web Developer: Exploring New Horizons</h3><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaringuleria&label=Profile%20views&color=0e75b6&style=flat" alt="aaringuleria" /> </p>
 
 <p align="left"> <a href="https://twitter.com/aaringuleria" target="blank"><img src="https://img.shields.io/twitter/follow/aaringuleria?logo=twitter&style=for-the-badge" alt="aaringuleria" /></a> </p>
+
+- 🌱 I’m currently learning: **Web Development and DSA in C++**
+
+- 💬 Ask me about: **C++/C, HTML, CSS, MySQL**
 
 - 📫 How to reach me: **aaringuleria2310@gmail.com**
 
