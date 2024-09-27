@@ -12,7 +12,7 @@
 
 - 📫 How to reach me: **aaringuleria2310@gmail.com**
 
-- 📄 My Resume: [https://drive.google.com/file/d/1WUV5jP3p0_vYkQzpGMXRX_DeMR98l0is/view?usp=sharing](https://drive.google.com/file/d/1WUV5jP3p0_vYkQzpGMXRX_DeMR98l0is/view?usp=sharing)
+- 📄 My Resume:[https://drive.google.com/file/d/1jY8dZler0K277uzZMOvdD66ucM95JpOh/view?usp=drive_link](https://drive.google.com/file/d/1jY8dZler0K277uzZMOvdD66ucM95JpOh/view?usp=drive_link)
 
 - ⚡ Fun fact: **"Coding: It's like building a castle out of legos, except the instructions are constantly changing."**
 
