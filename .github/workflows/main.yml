@@ -1,36 +1,37 @@
-  - name: Generate Snake Game from GitHub Contribution Grid
-    uses: Platane/snk@v3
-    with:
-      github_user_name: ${{ github.repository_owner }}
-      outputs: |
-        dist/github-snake.svg
-        dist/github-snake-dark.svg?palette=github-dark
-        dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+name: generate-snake-game-from-github-contribution-grid
+description: Generates a snake game from a GitHub user's contributions grid. Outputs the animation as a GIF or SVG.
+author: platane
 
-  - name: Push to GitHub
-    uses: EndBug/add-and-commit@v9
-    with:
-      branch: main
-      message: 'Generate Contribution Snake'
+on:  # Specify the event that triggers the action
+  push:
+    branches:
+      - main  # Specify the branch(es) on which the action should run
 
-  - name: Deploy to GitHub Pages
-    uses: peaceiris/actions-gh-pages@v3
-    with:
-      github_token: ${{ secrets.GITHUB_TOKEN }}
-      publish_dir: ./dist
+runs:
+  using: "docker"
+  image: "docker://platane/snk@sha256:1c8a0b51a75ad8cf36b7defddd2187bdbb92bbbb5521a9e6cc5df795b00fc590"
 
-# <picture>
-#   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-#   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-#   <img alt="github-snake" src="github-snake.svg" />
-# </picture>
+inputs:
+  github_user_name:
+    description: "GitHub user name for which the contribution grid will be used."
+    required: true
+  github_token:
+    description: "GitHub token used to fetch the contribution calendar. Defaults to the action token if not provided."
+    required: false
+    default: ${{ github.token }}
+  outputs:
+    required: false
+    description: |
+      List of files to generate, one per line. Each output can be customized with query string options.
 
-  - name: Setup Node.js environment
-    uses: actions/setup-node@v4.0.4
-    with:
-      node-version: '20.x'  # Required: specify Node.js version to install
-      cache: 'npm'          # Optional: specify the package manager for caching (npm, yarn, pnpm)
-      always-auth: false    # Optional: set always-auth to false or true as needed
-      check-latest: false   # Optional: set this option to true if you want the action to check for the latest version
-      registry-url: 'https://registry.npmjs.org/'  # Optional: specify registry URL if needed
-      cache-dependency-path: 'package-lock.json'   # Optional: path to the dependency file
+      Supported query string options:
+      - palette: A preset of colors, one of [github, github-dark, github-light]
+      - color_snake: Color of the snake in the game
+      - color_dots: Comma-separated list of dot colors. The first color represents 0 contributions, followed by low to high contributions.
+                    Exactly 5 colors are required.
+
+      Example:
+        outputs: |
+          dark.svg?palette=github-dark&color_snake=blue
+          light.svg?color_snake=#7845ab
+          ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
