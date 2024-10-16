@@ -19,8 +19,18 @@
       github_token: ${{ secrets.GITHUB_TOKEN }}
       publish_dir: ./dist
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+# <picture>
+#   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+#   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+#   <img alt="github-snake" src="github-snake.svg" />
+# </picture>
+
+  - name: Setup Node.js environment
+    uses: actions/setup-node@v4.0.4
+    with:
+      node-version: '20.x'  # Required: specify Node.js version to install
+      cache: 'npm'          # Optional: specify the package manager for caching (npm, yarn, pnpm)
+      always-auth: false    # Optional: set always-auth to false or true as needed
+      check-latest: false   # Optional: set this option to true if you want the action to check for the latest version
+      registry-url: 'https://registry.npmjs.org/'  # Optional: specify registry URL if needed
+      cache-dependency-path: 'package-lock.json'   # Optional: path to the dependency file
