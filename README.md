@@ -96,17 +96,5 @@
   </a>
 </div>
 
-<div align="center" style="background: rgba(79, 70, 229, 0.1); padding: 20px; border-radius: 15px; margin: 20px 0;">
-  <h3 style="color: #4F46E5;">🎮 Watch My Contribution Snake! 🐍</h3>
-  <a href="https://github.com/AarinGuleria">
-    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" style="filter: drop-shadow(0 4px 6px rgba(0,0,0,0.1));"/>
-  </a>
-</div>
 
-<div align="center" style="margin: 20px 0;">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" style="border-radius: 10px; box-shadow: 0 8px 16px rgba(0,0,0,0.2);"/>
-</div>
 
-<p align="center" style="font-size: 1.3em; background: linear-gradient(45deg, #4F46E5, #06B6D4); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin-top: 30px;">
-  <em>✨ Let's transform ideas into reality! Open for exciting collaborations and tech discussions! ✨</em>
-</p>
