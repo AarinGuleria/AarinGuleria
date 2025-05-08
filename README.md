@@ -27,9 +27,9 @@
 
 <div align="center" style="margin-top: 40px;">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AarinGuleria/AarinGuleria/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AarinGuleria/AarinGuleria/output/github-contribution-grid-snake.svg"/>
-    <img alt="github-snake" src="https://raw.githubusercontent.com/AarinGuleria/AarinGuleria/output/github-contribution-grid-snake.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="github-snake.svg"/>
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AarinGuleria/AarinGuleria/output/github-contribution-grid-snake.svg"/>
   </picture>
 </div>
 
@@ -41,7 +41,7 @@
     <ul style="list-style: none; padding: 0;">
       <li>🎯 Enterprise Solution Architect specializing in scalable applications</li>
       <li>💡 Expert in full-stack development and system design</li>
-      <li>🔧 Tech Stack: C++, React, Node.js, Express, MySQL, MongoDB</li>
+      <li>🔧 Tech Stack: C++, Python, React, Node.js, Express, MySQL, MongoDB, AI</li>
       <li>📈 Proven track record of delivering high-impact solutions</li>
       <li>🌐 Focus on performance optimization and best practices</li>
       <li>📊 View my <a href="https://drive.google.com/file/d/1jY8dZler0K277uzZMOvdD66ucM95JpOh/view?usp=drive_link" target="_blank" style="color: #4F46E5; text-decoration: none; font-weight: 600;">Professional Portfolio</a></li>
@@ -58,14 +58,14 @@
     🚀 Core Technologies
   </h3>
   <p style="margin: 25px 0; display: flex; justify-content: flex-start; gap: 15px; flex-wrap: wrap;">
-    <img src="https://skillicons.dev/icons?i=cpp,c,js,html,css,react,nodejs,express,mysql" alt="Core Technologies"/>
+    <img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css,react,nodejs,express,mysql,mongodb" alt="Core Technologies"/>
   </p>
   
   <h3 style="margin: 35px 0 30px; background: linear-gradient(to right, #4F46E5, #9333EA); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 26px; font-weight: 700; text-align: left;">
     ⚡ Professional Tools
   </h3>
   <p style="margin: 25px 0; display: flex; justify-content: flex-start; gap: 15px; flex-wrap: wrap;">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,mongodb,tailwind" alt="Professional Tools"/>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,mongodb,tailwind,tensorflow" alt="Professional Tools"/>
   </p>
 
   <div style="margin-top: 30px; padding: 20px; background: rgba(255, 255, 255, 0.05); border-radius: 16px;">
