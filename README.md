@@ -26,9 +26,9 @@
 </div>
 
 <!-- GitHub Snake Animation -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://github.com/AarinGuleria/AarinGuleria/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation"/>
-</div>
+ </div> -->
 
 <!-- Dynamic Stats Section -->
 <div align="center" style="margin: 40px 0;">
