@@ -47,12 +47,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=aaringuleria&theme=discord&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" width="49%"/>
 </div>
 
-<!-- Dynamic Repository Stats -->
-<div align="center" style="margin: 40px 0;">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aaringuleria&repo=AarinGuleria&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F46E5" alt="Repository Stats" width="49%"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aaringuleria&repo=AarinGuleria&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F46E5" alt="Repository Stats" width="49%"/>
-</div>
-
 <!-- Dynamic Profile Summary -->
 <div align="center" style="background: rgba(79, 70, 229, 0.05); padding: 40px; border-radius: 20px; margin: 35px 0; box-shadow: 0 10px 30px rgba(79, 70, 229, 0.2);">
   <img align="right" height="300" width="400" alt="Professional Development" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" style="border-radius: 15px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);"/>
