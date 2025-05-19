@@ -25,13 +25,35 @@
   <img src="https://komarev.com/ghpvc/?username=aaringuleria&label=Profile%20views&color=4F46E5&style=flat-square" alt="Profile Views"/>
 </div>
 
-<div align="center" style="margin-top: 40px;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="github-snake.svg"/>
-  </picture>
+<!-- GitHub Snake Animation -->
+<div align="center">
+  <img src="https://github.com/AarinGuleria/AarinGuleria/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation"/>
 </div>
 
+<!-- Dynamic Stats Section -->
+<div align="center" style="margin: 40px 0;">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aaringuleria&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F46E5&icon_color=4F46E5" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaringuleria&theme=tokyonight&hide_border=true&background=0D1117&ring=4F46E5&fire=4F46E5&currStreakLabel=4F46E5" alt="GitHub Streak" width="49%"/>
+</div>
+
+<!-- Dynamic Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaringuleria&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=4F46E5&line=4F46E5&point=4F46E5&area=true" alt="Contribution Graph" width="98%"/>
+</div>
+
+<!-- Dynamic Top Languages -->
+<div align="center" style="margin: 40px 0;">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aaringuleria&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F46E5&text_color=4F46E5&layout=compact" alt="Top Languages" width="49%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=aaringuleria&theme=discord&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" width="49%"/>
+</div>
+
+<!-- Dynamic Repository Stats -->
+<div align="center" style="margin: 40px 0;">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aaringuleria&repo=AarinGuleria&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F46E5" alt="Repository Stats" width="49%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aaringuleria&repo=AarinGuleria&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F46E5" alt="Repository Stats" width="49%"/>
+</div>
+
+<!-- Dynamic Profile Summary -->
 <div align="center" style="background: rgba(79, 70, 229, 0.05); padding: 40px; border-radius: 20px; margin: 35px 0; box-shadow: 0 10px 30px rgba(79, 70, 229, 0.2);">
   <img align="right" height="300" width="400" alt="Professional Development" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" style="border-radius: 15px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);"/>
   
@@ -49,10 +71,8 @@
   </div>
 </div>
 
-<h2 align="center">🛠️ Technical Expertise</h2>
-
+<!-- Dynamic Tech Stack Section -->
 <div align="center" style="background: linear-gradient(135deg, rgba(79, 70, 229, 0.05) 0%, rgba(147, 51, 234, 0.05) 100%); padding: 40px; border-radius: 24px; margin: 35px 0; box-shadow: 0 8px 32px rgba(79, 70, 229, 0.1);">
-  
   <h3 style="margin-bottom: 30px; background: linear-gradient(to right, #4F46E5, #9333EA); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 26px; font-weight: 700; text-align: left;">
     🚀 Core Technologies
   </h3>
@@ -66,28 +86,9 @@
   <p style="margin: 25px 0; display: flex; justify-content: flex-start; gap: 15px; flex-wrap: wrap;">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,mongodb,tailwind,tensorflow" alt="Professional Tools"/>
   </p>
-
-  <div style="margin-top: 30px; padding: 20px; background: rgba(255, 255, 255, 0.05); border-radius: 16px;">
-    <p style="margin: 0; color: #6366F1; font-size: 15px; font-weight: 500;">
-      Delivering enterprise-grade solutions with cutting-edge technologies 🎯
-    </p>
-  </div>
 </div>
 
-<div align="center" style="margin: 40px 0;">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aaringuleria&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F46E5&icon_color=4F46E5" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaringuleria&theme=tokyonight&hide_border=true&background=0D1117&ring=4F46E5&fire=4F46E5&currStreakLabel=4F46E5" alt="GitHub Streak" width="49%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaringuleria&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=4F46E5&line=4F46E5&point=4F46E5&area=true" alt="Contribution Graph" width="98%"/>
-</div>
-
-<div align="center" style="margin: 40px 0;">
-  <h2>🏆 Professional Achievements</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=aaringuleria&theme=discord&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" width="98%"/>
-</div>
-
+<!-- Dynamic Social Links -->
 <div align="center" style="margin: 40px 0;">
   <h2>🤝 Professional Network</h2>
   <a href="https://twitter.com/aaringuleria" target="_blank">
@@ -99,4 +100,9 @@
   <a href="https://github.com/AarinGuleria" target="_blank">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+</div>
+
+<!-- Dynamic Footer -->
+<div align="center" style="margin-top: 40px;">
+  <img src="https://github.com/AarinGuleria/AarinGuleria/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation"/>
 </div>
