@@ -65,7 +65,7 @@
       <li>🔧 Tech Stack: C++, Python, React, Node.js, Express, MySQL, MongoDB, AI</li>
       <li>📈 Proven track record of delivering high-impact solutions</li>
       <li>🌐 Focus on performance optimization and best practices</li>
-      <li>📊 View my <a href="https://drive.google.com/file/d/1jY8dZler0K277uzZMOvdD66ucM95JpOh/view?usp=drive_link" target="_blank" style="color: #4F46E5; text-decoration: none; font-weight: 600;">Professional Portfolio</a></li>
+      <li>📊 Check out my <a href="https://drive.google.com/file/d/1jY8dZler0K277uzZMOvdD66ucM95JpOh/view?usp=drive_link" target="_blank" style="color: #4F46E5; text-decoration: none; font-weight: 600;">Resume</a></li>
       <li>🔄 Committed to continuous learning and innovation</li>
     </ul>
   </div>
