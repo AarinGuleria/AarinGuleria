@@ -2,12 +2,12 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    # Runs every 6 hours
-    - cron: "0 */6 * * *"
-  
+    # Runs every minute
+    - cron: "* * * * *"
+
   # Allows manual workflow runs
   workflow_dispatch:
-  
+
   # Runs on every push to main
   push:
     branches:
@@ -17,21 +17,32 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    
+
     steps:
-      - uses: actions/checkout@v3
-      
-      - uses: Platane/snk@master
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "18"
+          cache: "npm"
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@master
         id: snake-gif
         with:
           github_user_name: AarinGuleria
-          # Generate both dark and light mode SVGs
           svg_out_path: dist/github-contribution-grid-snake.svg
           gif_out_path: dist/github-contribution-grid-snake.gif
-            
-      - uses: crazy-max/ghaction-github-pages@v3
+
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
+          commit_message: "Update snake animation"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
