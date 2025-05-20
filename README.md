@@ -7,9 +7,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack%20Solutions-4F46E5?style=for-the-badge&logoColor=white" alt="Full Stack Solutions"/>
-  <img src="https://img.shields.io/badge/Enterprise%20Architecture-06B6D4?style=for-the-badge&logoColor=white" alt="Enterprise Architecture"/>
-  <img src="https://img.shields.io/badge/Technical%20Leadership-8B5CF6?style=for-the-badge&logoColor=white" alt="Technical Leadership"/>
+  <img src="https://img.shields.io/badge/Full%20Stack%20Solutions-4F46E5?style=for-the-badge&logoColor=white" alt="MERN Stack Solutions"/>
+<!--   <img src="https://img.shields.io/badge/Enterprise%20Architecture-06B6D4?style=for-the-badge&logoColor=white" alt="Enterprise Architecture"/>
+  <img src="https://img.shields.io/badge/Technical%20Leadership-8B5CF6?style=for-the-badge&logoColor=white" alt="Technical Leadership"/> -->
 </p>
 
 <div align="center">
