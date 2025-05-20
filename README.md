@@ -3,11 +3,11 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=40&pause=1000&color=4F46E5&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi%2C+I'm+Aarin+Guleria+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Solution+Architect+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=40&pause=1000&color=4F46E5&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi%2C+I'm+Aarin+Guleria+%F0%9F%91%8B;MERN+Stack+Developer+%F0%9F%92%BB;Solution+Architect+%F0%9F%9A%80" alt="Typing SVG"/>
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack%20Solutions-4F46E5?style=for-the-badge&logoColor=white" alt="MERN Stack Solutions"/>
+  <img src="https://img.shields.io/badge/MERN%20Stack%20Solutions-4F46E5?style=for-the-badge&logoColor=white" alt="MERN Stack Solutions"/>
 <!--   <img src="https://img.shields.io/badge/Enterprise%20Architecture-06B6D4?style=for-the-badge&logoColor=white" alt="Enterprise Architecture"/>
   <img src="https://img.shields.io/badge/Technical%20Leadership-8B5CF6?style=for-the-badge&logoColor=white" alt="Technical Leadership"/> -->
 </p>
