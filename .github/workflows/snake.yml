@@ -26,12 +26,8 @@ jobs:
         with:
           github_user_name: AarinGuleria
           # Generate both dark and light mode SVGs
-          svg_out_path: |
-            dist/github-contribution-grid-snake-dark.svg
-            dist/github-contribution-grid-snake.svg
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+          svg_out_path: dist/github-contribution-grid-snake.svg
+          gif_out_path: dist/github-contribution-grid-snake.gif
             
       - uses: crazy-max/ghaction-github-pages@v3
         with:
