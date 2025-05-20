@@ -124,7 +124,7 @@
   </a>
 </div>
 
-<!-- Dynamic Footer -->
-<div align="center" style="margin-top: 40px;">
-  <img src="https://github.com/AarinGuleria/AarinGuleria/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation"/>
+<!-- GitHub Snake Animation -->
+<div align="center">
+  <img src="https://github.com/AarinGuleria/AarinGuleria/blob/output/dist/github-contribution-grid-snake.svg" alt="GitHub Snake Animation"/>
 </div>
