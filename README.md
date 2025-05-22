@@ -25,15 +25,14 @@
   <img src="https://komarev.com/ghpvc/?username=aaringuleria&label=Profile%20views&color=4F46E5&style=flat-square" alt="Profile Views"/>
 </div>
 
-<!-- GitHub Stats -->
-<div align="center" style="margin: 40px 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaringuleria&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F46E5&icon_color=4F46E5&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaringuleria&theme=tokyonight&hide_border=true&background=0D1117&ring=4F46E5&fire=4F46E5&currStreakLabel=4F46E5" alt="GitHub Streak" width="49%"/>
+<!-- Custom GitHub Profile Summary Card (with grading/donut) -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaringuleria&theme=tokyonight" alt="Aarin Guleria's GitHub Stats" />
 </div>
 
-<!-- Contribution Graph -->
+<!-- Official GitHub Contribution Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaringuleria&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=4F46E5&line=4F46E5&point=4F46E5&area=true" alt="Contribution Graph" width="98%"/>
+  <img src="https://github.com/users/AarinGuleria/contributions" alt="Aarin Guleria's Contribution Graph" />
 </div>
 
 <!-- Snake Animation -->
