@@ -27,18 +27,18 @@
 
 <!-- Dynamic Stats Section -->
 <div align="center" style="margin: 40px 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaringuleria&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F46E5&icon_color=4F46E5" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaringuleria&theme=tokyonight&hide_border=true&background=0D1117&ring=4F46E5&fire=4F46E5&currStreakLabel=4F46E5" alt="GitHub Streak" width="49%"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aaringuleria&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F46E5&icon_color=4F46E5&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaringuleria&theme=tokyonight&hide_border=true&background=0D1117&ring=4F46E5&fire=4F46E5&currStreakLabel=4F46E5&include_all_commits=true" alt="GitHub Streak" width="49%"/>
 </div>
 
 <!-- Dynamic Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=aaringuleria&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=4F46E5&line=4F46E5&point=4F46E5&area=true" alt="Contribution Graph" width="98%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaringuleria&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=4F46E5&line=4F46E5&point=4F46E5&area=true&custom_title=My%20Contribution%20Graph" alt="Contribution Graph" width="98%"/>
 </div>
 
 <!-- Dynamic Top Languages -->
 <div align="center" style="margin: 40px 0;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaringuleria&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F46E5&text_color=4F46E5&layout=compact" alt="Top Languages" width="49%"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aaringuleria&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F46E5&text_color=4F46E5&layout=compact&langs_count=8&exclude_repo=github-readme-stats" alt="Top Languages" width="49%"/>
 </div>
 
 <!-- Dynamic Profile Summary -->
@@ -126,5 +126,5 @@
 
 <!-- GitHub Snake Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AarinGuleria/AarinGuleria/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation"/>
+  <img src="https://github.com/AarinGuleria/AarinGuleria/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation"/>
 </div>
