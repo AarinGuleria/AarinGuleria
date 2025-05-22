@@ -25,33 +25,20 @@
   <img src="https://komarev.com/ghpvc/?username=aaringuleria&label=Profile%20views&color=4F46E5&style=flat-square" alt="Profile Views"/>
 </div>
 
-<!-- Custom GitHub Profile Summary Card (with grading/donut) -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaringuleria&theme=tokyonight" alt="Aarin Guleria's GitHub Stats" />
+<!-- Dynamic Stats Section -->
+<div align="center" style="margin: 40px 0;">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aaringuleria&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F46E5&icon_color=4F46E5" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaringuleria&theme=tokyonight&hide_border=true&background=0D1117&ring=4F46E5&fire=4F46E5&currStreakLabel=4F46E5" alt="GitHub Streak" width="49%"/>
 </div>
 
-<!-- Official GitHub Contribution Graph -->
+<!-- Dynamic Activity Graph -->
 <div align="center">
-  <img src="https://github.com/users/AarinGuleria/contributions" alt="Aarin Guleria's Contribution Graph" />
-</div>
-
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AarinGuleria/AarinGuleria/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation"/>
-</div>
-
-<!-- Troubleshooting Note -->
-<div align="center" style="margin: 20px 0; color: #f87171; font-size: 14px;">
-  <b>Note:</b> If your contributions are missing:<br/>
-  - Make sure your commits are on the default branch (main/master).<br/>
-  - Your git email must match your GitHub account email.<br/>
-  - Enable "Include private contributions" in your GitHub profile settings if needed.<br/>
-  - Sometimes, stats and graphs may take a few hours to update.
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaringuleria&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=4F46E5&line=4F46E5&point=4F46E5&area=true" alt="Contribution Graph" width="98%"/>
 </div>
 
 <!-- Dynamic Top Languages -->
 <div align="center" style="margin: 40px 0;">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aaringuleria&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F46E5&text_color=4F46E5&layout=compact&langs_count=8&exclude_repo=github-readme-stats" alt="Top Languages" width="49%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aaringuleria&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F46E5&text_color=4F46E5&layout=compact" alt="Top Languages" width="49%"/>
 </div>
 
 <!-- Dynamic Profile Summary -->
@@ -135,4 +122,9 @@
   <a href="https://github.com/AarinGuleria" target="_blank">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+</div>
+
+<!-- GitHub Snake Animation -->
+<div align="center">
+  <img src="https://github.com/AarinGuleria/AarinGuleria/blob/main/dist/github-contribution-grid-snake.svg" alt="GitHub Snake Animation"/>
 </div>
