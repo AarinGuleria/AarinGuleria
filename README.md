@@ -126,5 +126,5 @@
 
 <!-- GitHub Snake Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AarinGuleria/AarinGuleria/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation"/>
+  <img src="./dist/github-contribution-grid-snake.gif" alt="GitHub Snake Animation"/>
 </div>
