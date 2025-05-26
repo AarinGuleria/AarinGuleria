@@ -49,7 +49,7 @@
     <h3>💫 Professional Overview</h3>
     <ul style="list-style: none; padding: 0;">
       <li>🎯 Enterprise Solution Architect specializing in scalable applications</li>
-      <li>💡 Expert in full-stack development and system design</li>
+      <li>💡 Expert in MERN-stack development and system design</li>
       <li>🔧 Tech Stack: C++, Python, React, Node.js, Express, MySQL, MongoDB, AI</li>
       <li>📈 Proven track record of delivering high-impact solutions</li>
       <li>🌐 Focus on performance optimization and best practices</li>
