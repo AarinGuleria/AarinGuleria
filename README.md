@@ -32,13 +32,25 @@
 
 <br/>
 
-<!-- Github Stats -->
+<!-- Github Stats (Always Up-to-date & Displayed)-->
 <p align="center">
   <a href="https://github.com/AarinGuleria">
-    <img src="https://github-readme-stats.vercel.app/api?username=AarinGuleria&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats"/>
-    <img src="https://streak-stats.demolab.com?user=AarinGuleria&theme=tokyonight&hide_border=true&background=0D1117&sideLabels=8B5CF6" height="170" alt="GitHub Streak"/>
+    <picture>
+      <source srcset="https://github-readme-stats-aarin.vercel.app/api?username=AarinGuleria&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+      <img src="https://github-readme-stats-aarin.vercel.app/api?username=AarinGuleria&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats"/>
+    </picture>
+    <picture>
+      <source srcset="https://streak-stats.demolab.com?user=AarinGuleria&theme=tokyonight&hide_border=true&background=0D1117&sideLabels=8B5CF6" />
+      <img src="https://streak-stats.demolab.com?user=AarinGuleria&theme=tokyonight&hide_border=true&background=0D1117&sideLabels=8B5CF6" height="170" alt="GitHub Streak"/>
+    </picture>
   </a>
 </p>
+<!-- 
+  Notes:
+  - If default vercel.app API is down, consider using a community/stable fork or host your own via GitHub Actions for uptime.
+  - These stats will update automatically and stay visible as long as remote APIs are functional.
+  - For 100% reliability, see: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance
+-->
 
 <!-- Trending graph: activity-graph -->
 <p align="center">
