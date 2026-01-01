@@ -25,23 +25,23 @@
   <img src="https://komarev.com/ghpvc/?username=aaringuleria&label=Profile%20views&color=4F46E5&style=flat-square" alt="Profile Views"/>
 </div>
 
-<!-- 📊 GitHub Stats Section - Trending Modern Format -->
+<!-- 📊 GitHub Stats Section - Dynamic and Auto-Updating -->
 <div align="center" style="margin: 36px 0;">
   <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
     <img  
-      src="https://github-readme-stats.vercel.app/api?username=aaringuleria&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F46E5&icon_color=4F46E5"
+      src="https://github-readme-stats.vercel.app/api?username=aaringuleria&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F46E5&icon_color=4F46E5&cache_seconds=1800"
       alt="AarinGuleria's GitHub Stats"
       height="205"
       loading="lazy"
     />
     <img
-      src="https://github-readme-streak-stats.demolab.com?user=aaringuleria&theme=tokyonight&hide_border=true&background=0D1117&ring=4F46E5&fire=4F46E5&currStreakLabel=4F46E5"
+      src="https://github-readme-streak-stats.demolab.com/?user=aaringuleria&theme=tokyonight&hide_border=true&background=0D1117&ring=4F46E5&fire=4F46E5&currStreakLabel=4F46E5"
       alt="AarinGuleria's GitHub Streak"
       height="205"
       loading="lazy"
     />
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaringuleria&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F46E5&text_color=4F46E5"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaringuleria&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F46E5&text_color=4F46E5&cache_seconds=1800"
       alt="AarinGuleria's Top Languages"
       height="205"
       loading="lazy"
@@ -52,9 +52,9 @@
     src="https://github-readme-activity-graph.vercel.app/graph?username=aaringuleria&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=4F46E5&line=4F46E5&point=4F46E5&area=true"
     alt="Contribution Graph"
     width="97%"
+    loading="lazy"
   />
 </div>
-
 
 <!-- Dynamic Profile Summary -->
 <div align="center" style="background: rgba(79, 70, 229, 0.05); padding: 40px; border-radius: 20px; margin: 35px 0; box-shadow: 0 10px 30px rgba(79, 70, 229, 0.2);">
@@ -139,7 +139,7 @@
   </a>
 </div>
 
-<!-- GitHub Snake Animation -->
+<!-- GitHub Snake Animation - Auto-updating via GitHub Actions -->
 <div align="center">
-  <img src="./dist/github-contribution-grid-snake.gif" alt="GitHub Snake Animation"/>
+  <img src="https://raw.githubusercontent.com/AarinGuleria/AarinGuleria/main/dist/github-contribution-grid-snake.gif" alt="GitHub Snake Animation" width="100%"/>
 </div>
