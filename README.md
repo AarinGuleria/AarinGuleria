@@ -1,44 +1,52 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="https://github.com/AarinGuleria/AarinGuleria/assets/122372373/ce89737b-3700-45ea-a361-acbc35450658" alt="Aarin Guleria Banner" width="100%" style="border-radius: 25px; box-shadow: 0 15px 35px rgba(76, 34, 162, 0.35);"/>
+  <img src="https://github.com/AarinGuleria/AarinGuleria/assets/122372373/ce89737b-3700-45ea-a361-acbc35450658" alt="Aarin Guleria Banner" width="100%" style="border-radius: 25px; box-shadow: 0 15px 35px rgba(76, 34, 162, 0.35);" />
 </p>
 
-<!-- Name and Typing Animation (Latest trend: animated introduction) -->
+<!-- Name and Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&duration=2200&pause=1200&color=8B5CF6&center=true&vCenter=true&random=false&width=510&height=60&lines=Hey!+I%E2%80%99m+Aarin+Guleria+%F0%9F%91%8B;Full-Stack+%2F+MERN+Developer+%F0%9F%9A%80;AI+Enthusiast+%F0%9F%A7%AA;Open+Source+|+Cloud+Native+|+System+Design" alt="Animated Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&duration=2100&pause=1300&color=8B5CF6&center=true&vCenter=true&random=false&width=590&height=60&lines=Hey!+I%E2%80%99m+Aarin+Guleria+%F0%9F%91%8B;Full-Stack+%2F+MERN+Developer+%F0%9F%9A%80;AI+%26+Cloud+Enthusiast+%F0%9F%A7%AA;Open+Source+%7C+System+Design+%7C+Mentor" alt="Animated Typing SVG"/>
 </h1>
 
-<!-- Trending: Animated or color-shifting gradient badges -->
+<!-- Animated Badges Section -->
 <p align="center">
-  <img src="https://img.shields.io/badge/MERN%20Stack-1C1C1C?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=4F46E5" />
-  <img src="https://img.shields.io/badge/Open%20Source%20Lover-10B981?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloud%20Native-4F46E5?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MERN%20Stack-4F46E5?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Open%20Source-000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud%20Native-1D4ED8?style=for-the-badge&logo=aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%20%7C%20ML-10B981?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/System%20Design-22223B?style=for-the-badge&logo=abstract&logoColor=white"/>
 </p>
 
-<!-- Social Icons with iconscout badges (modern style) -->
+<!-- Social Icons with working iconscout badges (fixed visibility for all icons) -->
 <p align="center">
   <a href="https://twitter.com/aaringuleria" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="34" />
+    <img src="https://skillicons.dev/icons?i=twitter" height="34" alt="Twitter"/>
   </a>
   <a href="https://linkedin.com/in/aarin-guleria-677825251" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="34" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="34" alt="LinkedIn"/>
   </a>
-  <a href="mailto:aaringuleria2310@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="34" />
+  <a href="mailto:aaringuleria2310@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="34" alt="Gmail"/>
   </a>
   <a href="https://github.com/AarinGuleria" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="34" />
+    <img src="https://skillicons.dev/icons?i=github" height="34" alt="GitHub"/>
+  </a>
+  <a href="https://t.me/aaringuleria" target="_blank">
+    <img src="https://skillicons.dev/icons?i=telegram" height="34" alt="Telegram"/>
+  </a>
+  <a href="https://instagram.com/aaringuleria" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="34" alt="Instagram"/>
   </a>
   &nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=AarinGuleria&label=Profile%20views&color=8B5CF6&style=for-the-badge" alt="views"/>
 </p>
 
-<br>
+<br/>
 
-<!-- Github Stats - using latest shields for responsiveness -->
+<!-- Github Stats -->
 <p align="center">
   <a href="https://github.com/AarinGuleria">
-    <img src="https://github-readme-stats.vercel.app/api?username=AarinGuleria&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true" height="170" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=AarinGuleria&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats"/>
     <img src="https://streak-stats.demolab.com?user=AarinGuleria&theme=tokyonight&hide_border=true&background=0D1117&sideLabels=8B5CF6" height="170" alt="GitHub Streak"/>
   </a>
 </p>
@@ -48,26 +56,26 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AarinGuleria&theme=react-dark&bg_color=1D2231&color=8B5CF6&line=8B5CF6&point=4F46E5&hide_border=true&area=true" width="97%" alt="Contribution activity graph"/>
 </p>
 
-<!-- Glassmorphism-style Professional Overview (Current design trend) -->
-<div align="center" style="backdrop-filter: blur(7px); background: rgba(36, 37, 46, 0.25); border-radius: 22px; box-shadow: 0 8px 32px 0 rgba(76,34,162,0.17); padding: 2.3rem 1.5rem; margin: 32px 0; width: 95%; max-width: 850px;">
-  <img align="right" height="222" width="320" alt="Modern Development" src="https://lottie.host/0852ff19-c4f1-4d1c-b4ac-7b55dd6dc2e7/FYQZMs3eA7.json" style="border-radius: 17px; box-shadow: 0 3px 12px rgba(24,16,67,0.17);"/>
+<!-- Glassmorphism-style Professional Overview -->
+<div align="center" style="backdrop-filter: blur(7px); background: rgba(36,37,46,0.25); border-radius: 22px; box-shadow: 0 8px 32px 0 rgba(76,34,162,0.17); padding: 2.3rem 1.5rem; margin: 32px 0; width: 95%; max-width: 850px; display: flex; align-items: flex-start; gap: 28px;">
   <div align="left" style="max-width: 500px;">
     <h2>🚀 About Me</h2>
     <ul>
-      <li>🧠 <b>Solution Architect</b> | <b>Full Stack Engineer</b></li>
-      <li>🌍 Based in India | Collaborating globally</li>
-      <li>💻 <b>Tech</b>: MERN stack, Typescript, Python, C++, AI/ML, DevOps, Cloud, System Design</li>
-      <li>🛠️ Building performant, scalable, user-focused applications</li>
-      <li>🎤 Community: <b>Open Source Contributor & Mentor</b></li>
-      <li>📄 <a href="https://drive.google.com/file/d/1jY8dZler0K277uzZMOvdD66ucM95JpOh/view?usp=drive_link" target="_blank" style="color:#8B5CF6; text-decoration:none; font-weight:700;">View my Resume</a></li>
-      <li>💡 Always learning & experimenting with new tech</li>
+      <li>🧠 <b>Solution Architect</b> &nbsp; | &nbsp; <b>Full Stack Engineer</b></li>
+      <li>🌏 Based in <b>India</b> &nbsp; | &nbsp; Working globally</li>
+      <li>💻 <b>Tech:</b> MERN, TypeScript, Python, C++, AI/ML, DevOps, AWS/GCP/Azure, System Design</li>
+      <li>🛠️ Creating scalable, user-centered web & cloud applications</li>
+      <li>🎤 <b>Open Source Contributor</b> & Mentor</li>
+      <li>📄 <a href="https://drive.google.com/file/d/1jY8dZler0K277uzZMOvdD66ucM95JpOh/view?usp=sharing" target="_blank" style="color:#8B5CF6; text-decoration:none; font-weight:700;">View my Resume</a></li>
+      <li>✨ Always learning and experimenting with new technologies</li>
     </ul>
   </div>
+  <img align="right" height="222" width="320" alt="Modern Development" src="https://lottie.host/0852ff19-c4f1-4d1c-b4ac-7b55dd6dc2e7/FYQZMs3eA7.json" style="border-radius: 17px; box-shadow: 0 3px 12px rgba(24,16,67,0.17);"/>
 </div>
 
 <!-- Trendy Skill Icons Row -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,python,cpp,aws,vercel,netlify,graphql,figma,redux,vite,angular,docker,git,github,gitlab,postman,html,css,sass,chakra,bootstrap,antdesign,framer,notion,canva,tensorflow,pandas,numpy,scikit-learn,matplotlib" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,python,cpp,aws,gcp,azure,vercel,netlify,graphql,figma,redux,vite,angular,docker,git,github,gitlab,postman,html,css,sass,chakra,bootstrap,antdesign,framer,notion,canva,tensorflow,pandas,numpy,scikit-learn,matplotlib" />
 </p>
 
 <!-- Modern Animated Socials -->
@@ -84,11 +92,17 @@
   <a href="https://github.com/AarinGuleria" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-22272F?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://t.me/aaringuleria" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/aaringuleria" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
-<!-- Latest Trend: GitHub Contribution Snake (needs GitHub Actions set up) -->
+<!-- Github Contribution Snake -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AarinGuleria/AarinGuleria/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%"/>
+  <img src="https://raw.githubusercontent.com/AarinGuleria/AarinGuleria/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
 </p>
 
 ---
