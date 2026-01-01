@@ -22,38 +22,46 @@
   <a href="mailto:aaringuleria2310@gmail.com">
     <img src="https://img.shields.io/badge/-aaringuleria2310@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=aaringuleria&label=Profile%20views&color=4F46E5&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=AarinGuleria&label=Profile%20views&color=4F46E5&style=flat-square" alt="Profile Views"/>
 </div>
 
 <!-- 📊 GitHub Stats Section - Dynamic and Auto-Updating -->
 <div align="center" style="margin: 36px 0;">
   <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
-    <img  
-      src="https://github-readme-stats.vercel.app/api?username=aaringuleria&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F46E5&icon_color=4F46E5&cache_seconds=1800"
-      alt="AarinGuleria's GitHub Stats"
-      height="205"
-      loading="lazy"
-    />
-    <img
-      src="https://github-readme-streak-stats.demolab.com/?user=aaringuleria&theme=tokyonight&hide_border=true&background=0D1117&ring=4F46E5&fire=4F46E5&currStreakLabel=4F46E5"
-      alt="AarinGuleria's GitHub Streak"
-      height="205"
-      loading="lazy"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaringuleria&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F46E5&text_color=4F46E5&cache_seconds=1800"
-      alt="AarinGuleria's Top Languages"
-      height="205"
-      loading="lazy"
-    />
+    <a href="https://github.com/AarinGuleria" target="_blank" rel="noopener noreferrer">
+      <img  
+        src="https://github-readme-stats.vercel.app/api?username=AarinGuleria&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F46E5&icon_color=4F46E5&cache_seconds=1800"
+        alt="AarinGuleria's GitHub Stats"
+        height="205"
+        loading="lazy"
+      />
+    </a>
+    <a href="https://github.com/AarinGuleria" target="_blank" rel="noopener noreferrer">
+      <img
+        src="https://streak-stats.demolab.com/?user=AarinGuleria&theme=tokyonight&hide_border=true&background=0D1117&ring=4F46E5&fire=4F46E5&currStreakLabel=4F46E5"
+        alt="AarinGuleria's GitHub Streak"
+        height="205"
+        loading="lazy"
+      />
+    </a>
+    <a href="https://github.com/AarinGuleria" target="_blank" rel="noopener noreferrer">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=AarinGuleria&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F46E5&text_color=4F46E5&cache_seconds=1800"
+        alt="AarinGuleria's Top Languages"
+        height="205"
+        loading="lazy"
+      />
+    </a>
   </div>
   <br />
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=aaringuleria&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=4F46E5&line=4F46E5&point=4F46E5&area=true"
-    alt="Contribution Graph"
-    width="97%"
-    loading="lazy"
-  />
+  <a href="https://github.com/AarinGuleria" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=AarinGuleria&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=4F46E5&line=4F46E5&point=4F46E5&area=true"
+      alt="Contribution Graph"
+      width="97%"
+      loading="lazy"
+    />
+  </a>
 </div>
 
 <!-- Dynamic Profile Summary -->
