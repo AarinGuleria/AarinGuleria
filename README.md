@@ -25,8 +25,24 @@
   <img src="https://komarev.com/ghpvc/?username=AarinGuleria&label=Profile%20views&color=4F46E5&style=flat-square" alt="Profile Views"/>
 </div>
 
-<!-- 📊 GitHub Stats Section - Dynamic and Auto-Updating -->
+<!-- 📊 GitHub Stats Section - Disabled due to Unavailable Data -->
 <div align="center" style="margin: 36px 0;">
+  <p>
+    <img src="https://i.imgur.com/t2mf1cD.png" alt="AarinGuleria's GitHub Stats unavailable" width="70%" />
+    <br/>
+    <b>GitHub stats section currently unavailable.<br/>Unable to fetch data. Please check again later!</b>
+  </p>
+</div>
+
+<!-- Dynamic Profile Summary -->
+<div align="center" style="background: rgba(79, 70, 229, 0.05); padding: 40px; border-radius: 20px; margin: 35px 0; box-shadow: 0 10px 30px rgba(79, 70, 229, 0.2);">
+  <img align="right" height="300" width="400" alt="Professional Development" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" style="border-radius: 15px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);"/>
+  
+  <div align="left" style="max-width: 500px;">
+    <h3>💫 Professional Overview</h3>
+    <ul style="list-style: none; padding: 0;">
+      <li>🎯 Enterprise Solution Architect specializing in scalable applications</li>
+      <li>💡 Expert in MERN-stack development and system design</li>
   <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
     <a href="https://github.com/AarinGuleria" target="_blank" rel="noopener noreferrer">
       <img  
