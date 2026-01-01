@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://github.com/AarinGuleria/AarinGuleria/assets/122372373/ce89737b-3700-45ea-a361-acbc35450658" alt="Aarin Guleria Banner" width="100%" style="border-radius: 30px; box-shadow: 0 15px 30px rgba(79, 70, 229, 0.3);">
+  <img src="https://github.com/AarinGuleria/AarinGuleria/assets/122372373/ce89737b-3700-45ea-a361-acbc35450658" alt="Aarin Guleria Banner" width="100%" style="border-radius: 30px; box-shadow: 0 15px 30px rgba(79, 70, 229, 0.3);" />
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=40&pause=1000&color=4F46E5&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi%2C+I'm+Aarin+Guleria+%F0%9F%91%8B;MERN+Stack+Developer+%F0%9F%92%BB;Solution+Architect+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=40&pause=1000&color=4F46E5&center=true&vCenter=true&repeat=false&width=600&height=70&lines=Hi%2C+I'm+Aarin+Guleria+%F0%9F%91%8B;MERN+Stack+Developer+%F0%9F%92%BB;Solution+Architect+%F0%9F%9A%80" alt="Typing SVG"/>
 </h1>
 
 <p align="center">
@@ -25,27 +25,36 @@
   <img src="https://komarev.com/ghpvc/?username=aaringuleria&label=Profile%20views&color=4F46E5&style=flat-square" alt="Profile Views"/>
 </div>
 
-<!-- Dynamic Stats Section -->
-<div align="center" style="margin:40px 0;">
-  <div style="display:flex;gap:20px;justify-content:center;flex-wrap:wrap;align-items:center;max-width:1100px;margin-inline:auto;">
-    <a href="https://github.com/aaringuleria" target="_blank" rel="noopener">
-      <img src="https://github-readme-stats.vercel.app/api?username=aaringuleria&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F46E5&icon_color=4F46E5" alt="GitHub Stats" style="width:100%;max-width:640px;border-radius:12px;box-shadow:0 10px 30px rgba(79,70,229,0.12);" loading="lazy"/>
-    </a>
-    <a href="https://github.com/aaringuleria" target="_blank" rel="noopener">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaringuleria&theme=tokyonight&hide_border=true&background=0D1117&ring=4F46E5&fire=4F46E5&currStreakLabel=4F46E5" alt="GitHub Streak" style="width:100%;max-width:360px;border-radius:12px;box-shadow:0 10px 30px rgba(79,70,229,0.12);" loading="lazy"/>
-    </a>
+<!-- 📊 GitHub Stats Section - Trending Modern Format -->
+<div align="center" style="margin: 36px 0;">
+  <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
+    <img  
+      src="https://github-readme-stats.vercel.app/api?username=aaringuleria&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F46E5&icon_color=4F46E5"
+      alt="AarinGuleria's GitHub Stats"
+      height="205"
+      loading="lazy"
+    />
+    <img
+      src="https://github-readme-streak-stats.demolab.com?user=aaringuleria&theme=tokyonight&hide_border=true&background=0D1117&ring=4F46E5&fire=4F46E5&currStreakLabel=4F46E5"
+      alt="AarinGuleria's GitHub Streak"
+      height="205"
+      loading="lazy"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaringuleria&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F46E5&text_color=4F46E5"
+      alt="AarinGuleria's Top Languages"
+      height="205"
+      loading="lazy"
+    />
   </div>
+  <br />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=aaringuleria&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=4F46E5&line=4F46E5&point=4F46E5&area=true"
+    alt="Contribution Graph"
+    width="97%"
+  />
 </div>
 
-<!-- Dynamic Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaringuleria&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=4F46E5&line=4F46E5&point=4F46E5&area=true" alt="Contribution Graph" width="98%"/>
-</div>
-
-<!-- Dynamic Top Languages -->
-<div align="center" style="margin: 40px 0;">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aaringuleria&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F46E5&text_color=4F46E5&layout=compact" alt="Top Languages" width="49%"/>
-</div>
 
 <!-- Dynamic Profile Summary -->
 <div align="center" style="background: rgba(79, 70, 229, 0.05); padding: 40px; border-radius: 20px; margin: 35px 0; box-shadow: 0 10px 30px rgba(79, 70, 229, 0.2);">
@@ -71,6 +80,7 @@
     🚀 Tech Stack
   </h3>
   <p style="margin: 25px 0; display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+    <!-- ... badge list remains unchanged ... -->
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
@@ -113,7 +123,6 @@
     <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
   </p>
-  
 </div>
 
 <!-- Dynamic Social Links -->
