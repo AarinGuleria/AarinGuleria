@@ -59,7 +59,8 @@
       <li>✨ Always learning and experimenting with new technologies</li>
     </ul>
   </div>
-  <img align="right" height="222" width="320" alt="Modern Development" src="https://lottie.host/0852ff19-c4f1-4d1c-b4ac-7b55dd6dc2e7/FYQZMs3eA7.json" style="border-radius: 17px; box-shadow: 0 3px 12px rgba(24,16,67,0.17);"/>
+  <!-- Lottie animation not working as an <img> tag; consider using a GIF or static image instead -->
+  <img align="right" height="222" width="320" alt="Modern Development" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3NzdThwZ2V1bWJ6NmtkMGllc3Izbzd0dWQ0YTZ6bjE3bGE3YTl0NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XOKT4I6fZ3m4A/giphy.gif" style="border-radius: 17px; box-shadow: 0 3px 12px rgba(24,16,67,0.17);"/>
 </div>
 
 <!-- Trendy Skill Icons Row -->
