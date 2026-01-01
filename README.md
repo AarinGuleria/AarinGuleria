@@ -11,10 +11,7 @@
 <!-- Animated Badges Section -->
 <p align="center">
   <img src="https://img.shields.io/badge/MERN%20Stack-4F46E5?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Open%20Source-000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloud%20Native-1D4ED8?style=for-the-badge&logo=aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI%20%7C%20ML-10B981?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/System%20Design-22223B?style=for-the-badge&logo=abstract&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open%20Source-000?style=for-the-badge&logo=github&logoColor=white"/>  
 </p>
 
 <!-- Social Icons with working iconscout badges (fixed visibility for all icons) -->
@@ -28,15 +25,7 @@
   <a href="mailto:aaringuleria2310@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="34" alt="Gmail"/>
   </a>
-  <a href="https://github.com/AarinGuleria" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="34" alt="GitHub"/>
-  </a>
-  <a href="https://t.me/aaringuleria" target="_blank">
-    <img src="https://skillicons.dev/icons?i=telegram" height="34" alt="Telegram"/>
-  </a>
-  <a href="https://instagram.com/aaringuleria" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="34" alt="Instagram"/>
-  </a>
+  
   &nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=AarinGuleria&label=Profile%20views&color=8B5CF6&style=for-the-badge" alt="views"/>
 </p>
@@ -88,15 +77,6 @@
   </a>
   <a href="mailto:aaringuleria2310@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/AarinGuleria" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-22272F?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://t.me/aaringuleria" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/aaringuleria" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
