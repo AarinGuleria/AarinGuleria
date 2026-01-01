@@ -26,9 +26,15 @@
 </div>
 
 <!-- Dynamic Stats Section -->
-<div align="center" style="margin: 40px 0;">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aaringuleria&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F46E5&icon_color=4F46E5" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaringuleria&theme=tokyonight&hide_border=true&background=0D1117&ring=4F46E5&fire=4F46E5&currStreakLabel=4F46E5" alt="GitHub Streak" width="49%"/>
+<div align="center" style="margin:40px 0;">
+  <div style="display:flex;gap:20px;justify-content:center;flex-wrap:wrap;align-items:center;max-width:1100px;margin-inline:auto;">
+    <a href="https://github.com/aaringuleria" target="_blank" rel="noopener">
+      <img src="https://github-readme-stats.vercel.app/api?username=aaringuleria&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F46E5&icon_color=4F46E5" alt="GitHub Stats" style="width:100%;max-width:640px;border-radius:12px;box-shadow:0 10px 30px rgba(79,70,229,0.12);" loading="lazy"/>
+    </a>
+    <a href="https://github.com/aaringuleria" target="_blank" rel="noopener">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaringuleria&theme=tokyonight&hide_border=true&background=0D1117&ring=4F46E5&fire=4F46E5&currStreakLabel=4F46E5" alt="GitHub Streak" style="width:100%;max-width:360px;border-radius:12px;box-shadow:0 10px 30px rgba(79,70,229,0.12);" loading="lazy"/>
+    </a>
+  </div>
 </div>
 
 <!-- Dynamic Activity Graph -->
