@@ -64,9 +64,9 @@
     <ul>
       <li>🧠 <b>Solution Architect</b> &nbsp; | &nbsp; <b>Full Stack Engineer</b></li>
       <li>🌏 Based in <b>India</b> &nbsp; | &nbsp; Working globally</li>
-      <li>💻 <b>Tech:</b> MERN, TypeScript, Python, C++, AI/ML, DevOps, AWS/GCP/Azure, System Design</li>
-      <li>🛠️ Creating scalable, user-centered web & cloud applications</li>
-      <li>🎤 <b>Open Source Contributor</b> & Mentor</li>
+      <li>💻 <b>Tech:</b> MERN, TypeScript, Python, C++ </li>
+      <li>🛠️ Creating scalable, user-centered web applications</li>
+      <li>🎤 <b>Open Source Contributor</b></li>
       <li>📄 <a href="https://drive.google.com/file/d/1jY8dZler0K277uzZMOvdD66ucM95JpOh/view?usp=sharing" target="_blank" style="color:#8B5CF6; text-decoration:none; font-weight:700;">View my Resume</a></li>
       <li>✨ Always learning and experimenting with new technologies</li>
     </ul>
