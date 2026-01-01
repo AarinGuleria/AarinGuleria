@@ -58,14 +58,13 @@
       <li>📄 <a href="https://drive.google.com/file/d/1jY8dZler0K277uzZMOvdD66ucM95JpOh/view?usp=sharing" target="_blank" style="color:#8B5CF6; text-decoration:none; font-weight:700;">View my Resume</a></li>
       <li>✨ Always learning and experimenting with new technologies</li>
     </ul>
-  </div>
-  <!-- Lottie animation not working as an <img> tag; consider using a GIF or static image instead -->
-  <img align="right" height="222" width="320" alt="Modern Development" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3NzdThwZ2V1bWJ6NmtkMGllc3Izbzd0dWQ0YTZ6bjE3bGE3YTl0NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XOKT4I6fZ3m4A/giphy.gif" style="border-radius: 17px; box-shadow: 0 3px 12px rgba(24,16,67,0.17);"/>
+  </div>  
 </div>
 
 <!-- Trendy Skill Icons Row -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,python,cpp,aws,gcp,azure,vercel,netlify,graphql,figma,redux,vite,angular,docker,git,github,gitlab,postman,html,css,sass,chakra,bootstrap,antdesign,framer,notion,canva,tensorflow,pandas,numpy,scikit-learn,matplotlib" />
+<h2>Skill Set</h2>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,python,cpp,aws,gcp,azure,vercel,netlify,graphql,figma,redux,vite,angular,docker,git,github,gitlab,postman,html,css,sass,bootstrap,notion,tensorflow,matplotlib" />
 </p>
 
 <!-- Modern Animated Socials -->
