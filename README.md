@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Open%20Source-000?style=for-the-badge&logo=github&logoColor=white"/>  
 </p>
 
-<!-- Social Icons with working iconscout badges (fixed visibility for all icons) -->
+<!-- Social Icons with working iconscout badges (fixed visibility for all icons) --->
 <p align="center">
   <a href="https://twitter.com/aaringuleria" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" height="34" alt="Twitter"/>
