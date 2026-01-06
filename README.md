@@ -32,13 +32,16 @@
 
 <br/>
 
-<!-- Github Stats (Always Up-to-date & Displayed)-->
+<!-- Github Stats & Streak (Auto-updating via GitHub Actions)-->
+<!-- These cards automatically update based on the latest commits made by AarinGuleria -->
 <p align="center">
   <a href="https://github.com/AarinGuleria" target="_blank">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AarinGuleria&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats"/>
+    <!-- GitHub Readme Stats: auto-updating by default for commit activity -->
+    <img src="https://github-readme-stats.vercel.app/api?username=AarinGuleria&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/AarinGuleria" target="_blank">
-    <img src="https://streak-stats.demolab.com/?user=AarinGuleria&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&sideLabels=8B5CF6&card_width=450&v=2" height="170" alt="GitHub Streak"/>
+    <!-- GitHub Readme Streak Stats: updates in response to commit activity -->
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=AarinGuleria&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&sideLabels=8B5CF6&card_width=450" height="170" alt="GitHub Streak"/>
   </a>
 </p>
 
