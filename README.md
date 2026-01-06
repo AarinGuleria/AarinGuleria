@@ -35,8 +35,10 @@
 <!-- Github Stats (Always Up-to-date & Displayed)-->
 <p align="center">
   <a href="https://github.com/AarinGuleria" target="_blank">
-    <img src="https://github-readme-stats-aarin.vercel.app/api?username=AarinGuleria&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats"/>
-    <img src="https://streak-stats.demolab.com?user=AarinGuleria&theme=tokyonight&hide_border=true&background=0D1117&sideLabels=8B5CF6" height="170" alt="GitHub Streak"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=AarinGuleria&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/AarinGuleria" target="_blank">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=AarinGuleria&theme=tokyonight&hide_border=true&background=0D1117&sideLabels=8B5CF6" height="170" alt="GitHub Streak"/>
   </a>
 </p>
 <!-- 
@@ -93,7 +95,7 @@
 
 ---
 
-<!-- ✨ HOW TO: Enable trending dynamic features (if you fork this!) -->
+<!-- ✨ HOW TO: Enable trending dynamic features (if you fork this!)
 <details>
   <summary><b>🚩 Pro Tips for making this dynamic (profile owners!)</b></summary>
   
@@ -110,4 +112,5 @@
   - <b>Skill icons row</b> comes from <a href="https://skillicons.dev/" target="_blank">skillicons.dev</a>.
   - <b>For more premium stats</b>, setup <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">github-readme-stats</a>.
   - <b>Lottie animations</b> can be embedded via <a href="https://lottiefiles.com/" target="_blank">LottieFiles</a> with <code>img</code> tags or via compatible markdown hosts.
-</details>
+</details> -->
+
