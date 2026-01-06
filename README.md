@@ -34,15 +34,9 @@
 
 <!-- Github Stats (Always Up-to-date & Displayed)-->
 <p align="center">
-  <a href="https://github.com/AarinGuleria">
-    <picture>
-      <source srcset="https://github-readme-stats-aarin.vercel.app/api?username=AarinGuleria&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-      <img src="https://github-readme-stats-aarin.vercel.app/api?username=AarinGuleria&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats"/>
-    </picture>
-    <picture>
-      <source srcset="https://streak-stats.demolab.com?user=AarinGuleria&theme=tokyonight&hide_border=true&background=0D1117&sideLabels=8B5CF6" />
-      <img src="https://streak-stats.demolab.com?user=AarinGuleria&theme=tokyonight&hide_border=true&background=0D1117&sideLabels=8B5CF6" height="170" alt="GitHub Streak"/>
-    </picture>
+  <a href="https://github.com/AarinGuleria" target="_blank">
+    <img src="https://github-readme-stats-aarin.vercel.app/api?username=AarinGuleria&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats"/>
+    <img src="https://streak-stats.demolab.com?user=AarinGuleria&theme=tokyonight&hide_border=true&background=0D1117&sideLabels=8B5CF6" height="170" alt="GitHub Streak"/>
   </a>
 </p>
 <!-- 
