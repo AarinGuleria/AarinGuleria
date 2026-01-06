@@ -38,7 +38,7 @@
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AarinGuleria&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/AarinGuleria" target="_blank">
-    <img src="https://streak-stats.demolab.com/?user=AarinGuleria&theme=tokyonight&hide_border=true&background=0D1117&sideLabels=8B5CF6&v=1" height="170" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com/?user=AarinGuleria&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&sideLabels=8B5CF6&card_width=450&v=2" height="170" alt="GitHub Streak"/>
   </a>
 </p>
 
